@@ -50,7 +50,6 @@ button {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    /* background-color: tomato; */
 }
 
 section {
@@ -101,7 +100,6 @@ header .container {
 
 header .logo-text-secondary {
     color: #2E2F42;
-
 }
 
 /* .header-nav {} */
@@ -175,7 +173,6 @@ header .logo-text-secondary {
     background-position: center center;
 }
 
-
 .hero-title {
     font-weight: 500;
     font-size: 56px;
@@ -229,7 +226,6 @@ header .logo-text-secondary {
     justify-content: center;
     align-items: center;
     height: 112px;
-
 }
 
 .about-icon {
@@ -263,7 +259,6 @@ header .logo-text-secondary {
     color: #2E2F42;
     text-align: center;
     margin-bottom: 72px;
-
 }
 
 .doing-lists {
@@ -304,7 +299,6 @@ header .logo-text-secondary {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-
 .team-item:last-child {
     margin-right: 0;
 }
@@ -312,7 +306,6 @@ header .logo-text-secondary {
 .team-item img { 
     margin-bottom: 32px;
 }
-
 
 .team-title {
     font-weight: 600;
@@ -338,7 +331,6 @@ header .logo-text-secondary {
     justify-content: center;
     gap: 24px;
     margin-bottom: 36px;
-
 }
 
 .social-list-link {
@@ -460,10 +452,10 @@ footer .logo-text-secondary {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;   
 }
+
 .footer-social-list-link:hover,
 .footer-social-list-link:focus {
     background: #31D0AA;
-
 }
 
 .footer-social-link-icons {
@@ -486,10 +478,8 @@ footer .logo-text-secondary {
     display: flex;
     justify-content: center;
     margin-top: -24px;
-    margin-bottom: 72px;
-    
+    margin-bottom: 72px;   
 }
-
 
 .link-item {
     margin-right: 24px;
